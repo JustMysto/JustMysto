@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Markus</h1>
 <h3 align="center">A passionate web developer from Germany</h3>
 
-- 🔭 I’m currently working on [vue-dashboard](https://github.com/JustMysto/vue-dashboard) WIP
+- Shopware E-Commerce and MEVN Stack enjoyer
 
 <h3 align="center">Languages and Tools i came in touch with:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank"> 
