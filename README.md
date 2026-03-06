@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Markus</h1>
 <h3 align="center">A passionate web developer from Germany</h3>
 
-<p align="center">Shopware E-Commerce, MEVN Stack and Nuxt 3 enjoyer</p>
+<p align="center">Shopware E-Commerce, MEVN Stack and Nuxt enjoyer</p>
 
 
 <h3 align="center">Currently building side projects with:</h3>
